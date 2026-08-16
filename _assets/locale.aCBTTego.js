@@ -1,0 +1,1 @@
+async function e(){try{if((await fetch(`/cdn-cgi/trace`).then(e=>e.text())).match(/loc=(\w+)/)?.[1]!==`GB`)return;document.querySelectorAll(`.locale-license`).forEach(e=>{e.textContent&&=e.textContent.replace(/License/g,`Licence`).replace(/license/g,`licence`)})}catch{}}export{e as t};

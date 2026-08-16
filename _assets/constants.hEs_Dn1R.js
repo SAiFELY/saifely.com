@@ -1,0 +1,1 @@
+var e=`https://saifely-api-wjdbg2rk2a-nw.a.run.app`;export{e as t};

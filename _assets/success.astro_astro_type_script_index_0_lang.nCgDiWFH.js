@@ -1,0 +1,1 @@
+import{t as e}from"./locale.aCBTTego.js";e();
